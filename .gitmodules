@@ -1,0 +1,15 @@
+[submodule "path/to/mini_project1"]
+	path = path/to/mini_project1
+	url = https://github.com/Mohammadhnegaresh78/mini_project1.git
+[submodule "path/to/MLP2"]
+	path = path/to/MLP2
+	url = https://github.com/Mohammadhnegaresh78/MLP2.git
+[submodule "path/to/MLP_MP3"]
+	path = path/to/MLP_MP3
+	url = https://github.com/Mohammadhnegaresh78/MLP_MP3.git
+[submodule "path/to/midterm"]
+	path = path/to/midterm
+	url = https://github.com/Mohammadhnegaresh78/midterm.git
+[submodule "path/to/MLP_MP4"]
+	path = path/to/MLP_MP4
+	url = https://github.com/Mohammadhnegaresh78/MLP_MP4.git
